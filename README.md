@@ -6,6 +6,5 @@ Software Developer
 
 Açıklama alanı
 
-* 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [mohanadalmalii@gmail.com](mailto:mohanadalmalii@gmail.com)
-* 🧠  I'm learning AI and ML
+
